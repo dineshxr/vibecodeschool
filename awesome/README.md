@@ -40,7 +40,7 @@ competitors, because a list that only recommends its own stuff isn't a list.
 
 ## Courses & structured learning
 
-- [Vibe Code School](https://vibecodeschool.com) — **this project.** 78 free interactive lessons across Claude Code, Codex, and Antigravity; sandbox replays, quizzes, XP; no signup. ([roadmap](https://vibecodeschool.com/roadmap))
+- [Vibe Code School](https://vibecodeschool.com) — **this project.** 103 free interactive lessons across Claude Code, Codex, Antigravity, and Agentic AI Engineering (RAG, MCP, evals, AI security); sandbox replays, quizzes, XP; no signup. ([roadmap](https://vibecodeschool.com/roadmap))
 - [DeepLearning.AI short courses](https://www.deeplearning.ai/short-courses/) — free short courses incl. AI-assisted building with Replit; great zero-setup first taste.
 - [Coursera / Scrimba](https://www.coursera.org/courses?query=vibe%20coding) — video + interactive screencast specializations with certificates.
 - [Udemy](https://www.udemy.com/topic/vibe-coding/) — self-paced project-along video courses; watch for sales.

@@ -12,5 +12,6 @@ see the [full roadmap](../roadmap/README.md) for why.
 | 01 | [Vibe Coding using Claude Code](./claude-code-vibe-coding/README.md) | Beginner | 28 lessons | ~14 hours |
 | 02 | [Build Mobile Apps using Codex](./codex-mobile-apps/README.md) | Intermediate | 25 lessons | ~18 hours |
 | 03 | [Agent Manager with Google Antigravity](./antigravity-agent-manager/README.md) | Advanced | 25 lessons | ~20 hours |
+| 04 | [Agentic AI Engineering](./agentic-ai/README.md) | Intermediate | 25 lessons | ~16 hours |
 
 All lessons are free at [vibecodeschool.com](https://vibecodeschool.com) — no signup, progress saved in your browser.

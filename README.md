@@ -4,7 +4,7 @@
 
 ### Learn to build software by directing AI agents — free, interactive, open source.
 
-**78 lessons · 3 courses · Claude Code → OpenAI Codex → Google Antigravity**
+**103 lessons · 4 courses · Claude Code → Codex → Antigravity → Agentic AI Engineering**
 
 [**Start learning free →**](https://vibecodeschool.com) · [Roadmap](https://vibecodeschool.com/roadmap) · [Blog](https://vibecodeschool.com/blog) · [Glossary](https://vibecodeschool.com/glossary)
 
@@ -23,7 +23,7 @@ review, correct, and steer. It's the fastest-growing way to build software in 20
 and most of what's out there teaching it is a YouTube tour, not a curriculum.
 
 This repo is the open-source home of [Vibe Code School](https://vibecodeschool.com):
-the full **vibe coding roadmap**, the outline of **all 78 lessons**, and a curated
+the full **vibe coding roadmap**, the outline of **all 103 lessons**, and a curated
 **awesome list** of the tools and resources worth your time. The interactive
 versions — scrubbable agent-session replays, hands-on steps, quizzes, XP and
 streaks — are free on the site, no signup required.
@@ -42,6 +42,7 @@ breakdown, and FAQ. Interactive version with progress tracking:
 | 01 | **Vibe Coding using Claude Code** | Beginner | 28 lessons · ~14h | [outline](./courses/claude-code-vibe-coding/README.md) | [start free →](https://vibecodeschool.com/courses/claude-code-vibe-coding) |
 | 02 | **Build Mobile Apps using Codex** | Intermediate | 25 lessons · ~18h | [outline](./courses/codex-mobile-apps/README.md) | [start free →](https://vibecodeschool.com/courses/codex-mobile-apps) |
 | 03 | **Agent Manager with Google Antigravity** | Advanced | 25 lessons · ~20h | [outline](./courses/antigravity-agent-manager/README.md) | [start free →](https://vibecodeschool.com/courses/antigravity-agent-manager) |
+| 04 | **Agentic AI Engineering** | Intermediate | 25 lessons · ~16h | [outline](./courses/agentic-ai/README.md) | [start free →](https://vibecodeschool.com/courses/agentic-ai) |
 
 Each lesson is a walkthrough you run on your own machine, a sandbox replay you
 scrub through turn-by-turn, or a concept lesson — gated by a quiz before you can

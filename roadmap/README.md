@@ -4,7 +4,7 @@
 
 # The Vibe Coding Roadmap (2026)
 
-78 free lessons. Three agents. One path — from your first prompt to orchestrating
+103 free lessons. Three agents. One path — from your first prompt to orchestrating
 a fleet of AI agents. The interactive version with progress tracking lives at
 **[vibecodeschool.com/roadmap](https://vibecodeschool.com/roadmap)**.
 
@@ -37,7 +37,17 @@ flowchart TD
         C3M4["Running a Fleet, Sustainably"]
         C3M5["Real Fleet Projects"]
     end
-    C3 --> Z(["Ship software with a fleet of agents"])
+    C3 --> C4
+    subgraph C4["Course 04 · Agentic AI Engineering"]
+        direction TB
+        C4M1["GenAI Building Blocks"]
+        C4M2["Grounding: RAG & Context Engineering"]
+        C4M3["The Agentic Leap"]
+        C4M4["Finetuning & Local Models"]
+        C4M5["Evals, Observability & Monitoring"]
+        C4M6["AI Security & Safety"]
+    end
+    C4 --> Z(["Ship software with a fleet of agents"])
 ```
 
 ## The three tracks
@@ -78,6 +88,19 @@ Google Antigravity end to end: the Editor and Agent Manager surfaces, artifacts 
 4. **Running a Fleet, Sustainably** — Models and rate limits, audit trails, failure modes, security, and the three metrics that keep leverage honest.
 5. **Real Fleet Projects** — Issue → PR, docs sync, parallel triage, worktree migration, capstone. The workflows you'll actually run.
 
+### 04. Agentic AI Engineering
+
+From tokens to production: LLM fundamentals, RAG and context engineering, agent architectures with MCP and A2A, LangGraph orchestration, LoRA finetuning and local models with Ollama, evals and observability, and the security layer — injection defense, guardrails, red teaming, governance.
+
+*Intermediate · 25 lessons · ~16 hours · [take it interactively](https://vibecodeschool.com/courses/agentic-ai) · [outline](../courses/agentic-ai/README.md)*
+
+1. **GenAI Building Blocks** — Tokens, prompting, function calling, structured outputs, the modern stack — and the latency/cost/reliability budgets that shape everything.
+2. **Grounding: RAG & Context Engineering** — Curate the window, anchor answers in your own data, and know which advanced retrieval patterns earn their complexity.
+3. **The Agentic Leap** — From workflows to agents: architecture patterns, MCP for tools, A2A for peers, and LangGraph when orchestration gets real.
+4. **Finetuning & Local Models** — When training pays off, LoRA/QLoRA in practice, and running open-weight models locally with Ollama.
+5. **Evals, Observability & Monitoring** — Golden datasets, failure analysis, LLM-as-judge, tracing, and the production eval loop that catches regressions before users do.
+6. **AI Security & Safety** — The threat surface, injection and PII defense, guardrails that fail closed, red teaming, and governance — production readiness, proven.
+
 ## FAQ
 
 <details>
@@ -89,7 +112,7 @@ Start with one agent and one real project. Our roadmap begins with Claude Code i
 <details>
 <summary><strong>How long does it take to learn vibe coding?</strong></summary>
 
-The full roadmap is roughly 52 hours of guided work — about 4 to 6 weeks part-time. Course 01 (Claude Code, ~14h) makes you productive in the first week; Course 02 (Codex mobile, ~18h) and Course 03 (Antigravity, ~20h) build toward shipping production software and running multiple agents in parallel.
+The full roadmap is roughly 68 hours of guided work — about 5 to 8 weeks part-time. Course 01 (Claude Code, ~14h) makes you productive in the first week; Course 02 (Codex mobile, ~18h) and Course 03 (Antigravity, ~20h) build toward shipping production software and running agents in parallel; Course 04 (Agentic AI Engineering, ~16h) teaches the systems layer — RAG, evals, and AI security.
 </details>
 
 <details>
@@ -101,7 +124,7 @@ No. Course 01 assumes zero coding background — the agent writes the code, and 
 <details>
 <summary><strong>Is this vibe coding roadmap free?</strong></summary>
 
-Yes. All 78 lessons across the three courses are free, with no signup and no paywall. Progress, XP, streaks, and badges are saved in your browser.
+Yes. All 103 lessons across the four courses are free, with no signup and no paywall. Progress, XP, streaks, and badges are saved in your browser.
 </details>
 
 <details>
