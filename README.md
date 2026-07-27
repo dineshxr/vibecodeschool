@@ -47,6 +47,33 @@ Each lesson is a walkthrough you run on your own machine, a sandbox replay you
 scrub through turn-by-turn, or a concept lesson — gated by a quiz before you can
 mark it complete. Finish a course, print a [free certificate](https://vibecodeschool.com/certificate).
 
+## 🧪 Live Demos — apps + every prompt that built them
+
+**[→ demos/](./demos/README.md)** — small apps vibe-coded with Claude Code,
+[running live on the site](https://vibecodeschool.com/demos). Each folder has
+the **full prompt-by-prompt build log** (including the bugs and how the
+corrections were phrased), the **exact source** (MIT), and a **remix prompt**
+to rebuild it yourself:
+
+| Demo | The teaching point | |
+|------|--------------------|---|
+| [Tip Splitter](./demos/tip-splitter/) | Small turns + honest edge cases (the cent-rounding overpay) | [live ▶](https://vibecodeschool.com/demos/tip-splitter) |
+| [Focus Timer](./demos/focus-timer/) | A real React StrictMode interval bug, diagnosed and fixed properly | [live ▶](https://vibecodeschool.com/demos/focus-timer) |
+| [CLAUDE.md Generator](./demos/claude-md-generator/) | Templates beat blank pages — project memory as a form | [live ▶](https://vibecodeschool.com/demos/claude-md-generator) |
+
+## 🧰 Templates — copy-paste the toolchain
+
+**[→ templates/](./templates/README.md)** — the artifacts the courses teach you
+to build, ready to adapt:
+
+- **[CLAUDE.md templates](./templates/claude-md/)** — project memory for web
+  apps, Expo mobile apps, and monorepos (or [generate one from a form](https://vibecodeschool.com/demos/claude-md-generator))
+- **[Slash commands](./templates/slash-commands/)** — `/review-pr`, `/add-tests`,
+  `/fix-issue`, `/draft-changelog`, `/find-todos`, `/explain`
+- **[Hook recipes](./templates/hooks/)** — auto-format on edit, protect files,
+  test-after-change
+- **[AGENTS.md template](./templates/agents-md/)** — the Codex counterpart
+
 ## 😎 Awesome Vibe Coding
 
 **[→ awesome/README.md](./awesome/README.md)** — a curated list of vibe coding
