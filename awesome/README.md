@@ -61,6 +61,7 @@ competitors, because a list that only recommends its own stuff isn't a list.
 - [Karpathy's original "vibe coding" post](https://x.com/karpathy/status/1886192184808149383) — where the term started (Feb 2025).
 - [Vibe coding glossary](https://vibecodeschool.com/glossary) — plain-English definitions: agentic loop, plan mode, MCP, worktrees, and friends.
 - [Model Context Protocol](https://modelcontextprotocol.io) — the standard for wiring tools into agents.
+- [NextReset](https://nextreset.ai/) — free, source-linked Codex reset history and official AI-service incident updates, plus a personal timer stored locally in the browser. I maintain this project and use it to check whether an interrupted Codex session matches a public event before troubleshooting locally.
 - [llms.txt spec](https://llmstxt.org) — make your sites legible to agents.
 
 ## Communities
